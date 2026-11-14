@@ -1,17 +1,21 @@
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/opensourcewinter/.github/main/profile/banner.jpg" alt="OpenWinter Banner" width="100%">
+</p>
 
-<img src="https://raw.githubusercontent.com/opensourcewinter/.github/main/profile/banner.jpg" alt="OpenWinter Banner" width="100%" />
+<h1 align="center">OpenWinter</h1>
 
-<br /><br />
+<p align="center">
+  <b>Independent Open-Source Ecosystem</b><br>
+  <i>Build · Share · Collaborate · Keep Open</i>
+</p>
 
-# OpenWinter
-
-**Independent Open-Source Ecosystem**  
-*Build · Share · Collaborate · Keep Open*
-
-[Projects](#-active-projects) · [Principles](#-engineering-principles) · [Tech Stack](#-core-stack) · [Discord Community](#-community--connect) · [Contributing](#-contributing)
-
-</div>
+<p align="center">
+  <a href="#-active-projects">Projects</a> ·
+  <a href="#-engineering-principles">Principles</a> ·
+  <a href="#-core-stack">Tech Stack</a> ·
+  <a href="#-community--connect">Community</a> ·
+  <a href="#-contributing">Contributing</a>
+</p>
 
 ---
 
@@ -25,15 +29,11 @@ We believe software should be **open-source by default, zero-telemetry by princi
 
 ## 🚀 Active Projects
 
-<div align="center">
-
 | Repository | Description | Primary Stack | Status |
 | :--- | :--- | :--- | :---: |
 | **[⚡ SirDeep](https://github.com/opensourcewinter/sirdeep)** | Autonomous community engine & AI companion for developer Discord guilds with 24/7 coding radio, anti-nuke audit sentinels, and dynamic PIL cards. | `Python 3.11+` `Discord.py` `FFmpeg` `Ollama` | [![v1.0.0](https://img.shields.io/badge/Release-v1.0.0-00d2ff?style=flat-square)](https://github.com/opensourcewinter/sirdeep/releases) |
 | **[🕸️ WinterGrab](https://github.com/opensourcewinter/wintergrab)** | Friendly, high-throughput web scraping engine that scales from single pages to large-scale adaptive crawls with browser-like fetching. | `Python` `Asyncio` `Scraping Engine` | [![Public](https://img.shields.io/badge/Status-Public-10b981?style=flat-square)](https://github.com/opensourcewinter/wintergrab) |
 | **[💬 WinterChat](https://github.com/opensourcewinter/winterchat)** | Decentralized messaging architecture built for privacy, cryptographic peer-to-peer transmission, and developer communication. | `Distributed Systems` `E2EE` `Async` | [![Dev](https://img.shields.io/badge/Status-Active%20Dev-8b5cf6?style=flat-square)](https://github.com/opensourcewinter) |
-
-</div>
 
 ---
 
@@ -48,8 +48,6 @@ We believe software should be **open-source by default, zero-telemetry by princi
 
 ## 🛠️ Core Stack
 
-<div align="center">
-
 ```
 Languages       │ Python 3.11+ • TypeScript • Rust • C++
 Runtimes        │ Docker • Node.js • Linux Native Daemons
@@ -57,8 +55,6 @@ AI & Inference  │ Ollama Local GPU • OpenRouter • Gemini • OpenAI
 Audio & Media   │ FFmpeg 9.0+ • Pillow (PIL) High-DPI Engine
 Data & State    │ SQLite (WAL Mode) • Redis • JSON Dataclasses
 ```
-
-</div>
 
 ---
 
@@ -80,6 +76,6 @@ We welcome pull requests, architectural feedback, and bug reports across all our
 2. **Branch & Build**: Follow the Conventional Commits specification.
 3. **Submit a Pull Request**: Help us keep technology open and free for everyone.
 
-<div align="center">
+<p align="center">
   <sub>© 2026 OpenWinter Foundation. Built with ❄️ by developers, for developers.</sub>
-</div>
+</p>
