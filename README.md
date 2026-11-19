@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://openwinter.dev"><b>🌐 openwinter.dev</b></a> ·
   <a href="#-active-projects">Projects</a> ·
   <a href="#-engineering-principles">Principles</a> ·
   <a href="#-core-stack">Tech Stack</a> ·
@@ -31,7 +32,7 @@ We believe software should be **open-source by default, zero-telemetry by princi
 
 | Repository | Description | Primary Stack | Status |
 | :--- | :--- | :--- | :---: |
-| **[⚡ SirDeep](https://github.com/opensourcewinter/sirdeep)** | Autonomous community engine & AI companion for developer Discord guilds with 24/7 coding radio, anti-nuke audit sentinels, and dynamic PIL cards. | `Python 3.11+` `Discord.py` `FFmpeg` `Ollama` | [![v1.0.0](https://img.shields.io/badge/Release-v1.0.0-00d2ff?style=flat-square)](https://github.com/opensourcewinter/sirdeep/releases) |
+| **[⚡ SirDeep](https://github.com/opensourcewinter/sirdeep)** | Autonomous community engine & AI companion for developer Discord guilds with 24/7 coding radio, anti-nuke audit sentinels, and dynamic PIL cards. | `Python 3.11+` `Discord.py` `FFmpeg` `Ollama` | [![v1.0.1](https://img.shields.io/badge/Release-v1.0.1-00d2ff?style=flat-square)](https://github.com/opensourcewinter/sirdeep/releases) |
 | **[🕸️ WinterGrab](https://github.com/opensourcewinter/wintergrab)** | Friendly, high-throughput web scraping engine that scales from single pages to large-scale adaptive crawls with browser-like fetching. | `Python` `Asyncio` `Scraping Engine` | [![Public](https://img.shields.io/badge/Status-Public-10b981?style=flat-square)](https://github.com/opensourcewinter/wintergrab) |
 | **[💬 WinterChat](https://github.com/opensourcewinter/winterchat)** | Decentralized messaging architecture built for privacy, cryptographic peer-to-peer transmission, and developer communication. | `Distributed Systems` `E2EE` `Async` | [![Dev](https://img.shields.io/badge/Status-Active%20Dev-8b5cf6?style=flat-square)](https://github.com/opensourcewinter) |
 
@@ -62,7 +63,8 @@ Data & State    │ SQLite (WAL Mode) • Redis • JSON Dataclasses
 
 OpenWinter is driven by builders who value open technology, collaborative problem-solving, and minimalist craft.
 
-* 🌐 **GitHub**: [github.com/opensourcewinter](https://github.com/opensourcewinter)
+* 🌐 **Official Website**: [openwinter.dev](https://openwinter.dev)
+* 🐙 **GitHub Organization**: [github.com/opensourcewinter](https://github.com/opensourcewinter)
 * 💬 **Discord**: Join our community of builders, contribute to active repositories, and test our flagship bots live in our guild.
 * ⚡ **Flagship Bot**: Explore [SirDeep](https://github.com/opensourcewinter/sirdeep) for developer community orchestration.
 
